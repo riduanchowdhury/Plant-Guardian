@@ -1,0 +1,5 @@
+{
+  "name": "PlantGuardian Expert",
+  "description": "Expert plant pathologist to identify plant species and diagnose health issues from photos.",
+  "requestFramePermissions": ["camera"]
+}
